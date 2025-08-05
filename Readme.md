@@ -20,14 +20,16 @@ Todo:
 
 ## Mobile
 
-[ ] - init expo project
+[x] - init expo project - reset
 
-[ ] - setup design system ui components.
+[x] - setup design system ui components.
 
-[ ] - integrate with apollo server using apollo client
+[x] - integrate with apollo server using apollo client
 
 [ ] - implement authentication
 
 [ ] - implement CRUD accounts, transactions 
 
 I am using bun instead of npm or yarn
+
+In this video, I am going to create the mobile appication with Expo 
