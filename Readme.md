@@ -8,18 +8,26 @@ Todo:
 ## Server
 
 [x] - init the server with apollo server
-[] - implement db postgres using drizzle orm
-[] - implement authentication
-[] - implement CRUD accounts, transactions
-[] - more....
+
+[x] - implement db postgres using drizzle orm
+
+[x] - implement authentication
+
+[ ] - implement CRUD accounts, transactions
+
+[ ] - more....
 
 
 ## Mobile
 
-[] - init expo project
-[] - setup design system ui components.
-[] - integrate with apollo server using apollo client
-[] - implement authentication
-[] - implement CRUD accounts, transactions 
+[ ] - init expo project
+
+[ ] - setup design system ui components.
+
+[ ] - integrate with apollo server using apollo client
+
+[ ] - implement authentication
+
+[ ] - implement CRUD accounts, transactions 
 
 I am using bun instead of npm or yarn
